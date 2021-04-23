@@ -1,1 +1,5 @@
 # getteamtest
+
+GETTEAMISNUMBER1
+
+ALLDETECTITEM
